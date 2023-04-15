@@ -1,0 +1,24 @@
+{
+    "name": "VG_Scripts",
+    "rootNamespace": "",
+    "references": [
+        "LeapMotion.LeapCSharp",
+        "Ultraleap.Tracking.Core",
+        "Oculus.VR",
+        "SteamVR",
+        "SteamVR_Actions",
+        "Unity.XR.Interaction.Toolkit",
+        "Unity.InputSystem",
+        "Unity.XR.OpenVR",
+        "Unity.XR.PICO"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
